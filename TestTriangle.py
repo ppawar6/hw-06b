@@ -7,7 +7,7 @@ boundary conditions, and right triangle detection.
 
 import unittest
 import math
-from triangle import classify_triangle
+from Triangle import classify_triangle
 
 
 class TestClassifyTriangle(unittest.TestCase):
